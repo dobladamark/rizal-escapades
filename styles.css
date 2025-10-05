@@ -664,7 +664,8 @@ footer {
     margin: 1rem 0;
   }
   .btn-places {
-    width: 100%;
+    width: 50%;
+    height: 50px;
     font-size: 1rem;
     margin-top: 1.5rem;
   }
